@@ -126,9 +126,13 @@ I'm a **Plant Breeder and Bioinformatics Researcher** focused on applying **quan
 </tr>
 </table>
 
-### Laboratory Equipment
-![GC](https://img.shields.io/badge/Gas_Chromatography-FF6B6B?style=flat-square)
-![AAS](https://img.shields.io/badge/Atomic_Absorption_Spectrometry-4ECDC4?style=flat-square)
+### Laboratory & Analytical Techniques
+
+| Technique | Application | Purpose |
+|-----------|-------------|---------|
+| **Gas Chromatography (GC)** | Fatty Acid Profiling | Quality trait analysis in breeding lines |
+| **Atomic Absorption Spectrometry (AAS)** | Mineral Quantification | Biofortification studies (Fe, Zn content) |
+| **Spectrophotometry** | Biochemical Assays | Glucosinolate and metabolite quantification |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
