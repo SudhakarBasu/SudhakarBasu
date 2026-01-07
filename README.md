@@ -202,16 +202,16 @@ Thesis: "Evaluation and Characterization of Rice Near Isogenic Lines for Major A
 ## GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sudhakarbasu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhakarbasu&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sudhakarbasu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhakarbasu&layout=compact&langs_count=8&theme=algolia&hide_border=false"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudhakarbasu&theme=algolia" alt="sudhakarbasu" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudhakarbasu&theme=algolia&hide_border=false" alt="sudhakarbasu" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudhakarbasu&theme=react-dark&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudhakarbasu&theme=algolia" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
