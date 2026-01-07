@@ -58,33 +58,104 @@ I'm a **Plant Breeder and Bioinformatics Researcher** focused on applying **quan
 
 ## Skills & Expertise
 
-### Biotechnology
-![Gene Cloning](https://img.shields.io/badge/Gene_Cloning-2E8B57?style=flat-square)
-![Molecular Markers](https://img.shields.io/badge/Molecular_Markers-4682B4?style=flat-square)
-![KASP](https://img.shields.io/badge/KASP-20B2AA?style=flat-square)
-![CAPS](https://img.shields.io/badge/CAPS-3CB371?style=flat-square)
-![SSR](https://img.shields.io/badge/SSR-66CDAA?style=flat-square)
-![MABC](https://img.shields.io/badge/MABC-48D1CC?style=flat-square)
-![MAS](https://img.shields.io/badge/MAS-40E0D0?style=flat-square)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### Programming & Tools
+### Biotechnology & Molecular Techniques
+
+```text
+Gene Cloning                    ████████████ Expert
+Molecular Markers Design        ████████████ Expert
+  ├─ KASP Markers              ███████████░ Advanced
+  ├─ CAPS Markers              ███████████░ Advanced
+  ├─ SSR Markers               ████████████ Expert
+  └─ ASP Markers               ██████████░░ Proficient
+
+Marker-Assisted Selection       ████████████ Expert
+  ├─ MABC                      ████████████ Expert
+  └─ MAS                       ████████████ Expert
+```
+
+### Programming Languages
+
+<div align="center">
+
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### Bioinformatics & Analysis
+</div>
+
+```text
+R Programming                   ████████████ Expert
+Python                          ███████████░ Advanced
+Bash Scripting                  ██████████░░ Proficient
 ```
-Genome Assembly          Variant Calling         RNA-Seq Analysis
-GWAS                     Genomic Selection       QTL Mapping
-QTL-seq Analysis         Meta-QTL Analysis       Molecular Docking
-Multi-omics Integration  Statistical Genetics    Transcriptomics
+
+### Operating Systems & Tools
+
+<div align="center">
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+### Bioinformatics & Computational Analysis
+
+```text
+Genomics
+├─ Genome Assembly              ███████████░ Advanced
+├─ Variant Calling              ████████████ Expert
+├─ WGS Analysis                 ███████████░ Advanced
+└─ GBS Analysis                 ███████████░ Advanced
+
+Transcriptomics
+├─ RNA-Seq Analysis             ████████████ Expert
+├─ Differential Expression      ████████████ Expert
+└─ Transcriptome Assembly       ██████████░░ Proficient
+
+Quantitative Genetics
+├─ GWAS                         ████████████ Expert
+├─ QTL Mapping                  ████████████ Expert
+├─ QTL-seq Analysis             ████████████ Expert
+├─ Meta-QTL Analysis            ███████████░ Advanced
+└─ Genomic Selection            ██████████░░ Proficient
+
+Multi-Omics Integration         ███████████░ Advanced
+Statistical Genetics            ████████████ Expert
+Molecular Docking               █████████░░░ Intermediate
 ```
 
 ### Laboratory Equipment
-![GC](https://img.shields.io/badge/Gas_Chromatography-FF6B6B?style=flat-square)
-![AAS](https://img.shields.io/badge/Atomic_Absorption_Spectrometry-4ECDC4?style=flat-square)
+
+```text
+Gas Chromatography (GC)         ███████████░ Advanced
+Atomic Absorption Spec. (AAS)   ██████████░░ Proficient
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### Key Research Competencies
+
+| Domain | Techniques | Experience Level |
+|--------|-----------|------------------|
+| **Crop Genomics** | WGS, GBS, Variant Calling, Genome Assembly | ⭐⭐⭐⭐⭐ |
+| **Gene Mapping** | QTL Mapping, GWAS, QTL-seq, Meta-QTL | ⭐⭐⭐⭐⭐ |
+| **Transcriptomics** | RNA-seq, DEG Analysis, Gene Expression | ⭐⭐⭐⭐⭐ |
+| **Molecular Breeding** | MAS, MABC, Marker Development | ⭐⭐⭐⭐⭐ |
+| **Multi-Omics** | Data Integration, Systems Biology | ⭐⭐⭐⭐ |
+| **Bioinformatics** | Pipeline Development, Data Analysis | ⭐⭐⭐⭐⭐ |
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
