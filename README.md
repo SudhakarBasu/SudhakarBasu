@@ -25,6 +25,37 @@ I'm a **Plant Breeder and Bioinformatics Researcher** focused on applying **quan
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## Current Research Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### Guava QTL Mapping
+- WGS-based genotyping for biochemical & morphological traits
+- Genomic region annotation for target traits
+
+### Capsicum Disease Resistance
+- QTL-seq analysis for *Phytophthora capsici* resistance
+- Trait-linked primer design & validation
+
+</td>
+<td width="50%">
+
+### Cucurbits Database
+- QTL database development from published studies
+- Meta-QTL & transcriptome analysis for stress & quality traits
+
+### Cucumber & Cauliflower
+- QTL-seq and GBS mapping for disease resistance
+- Candidate gene annotation in significant genomic regions
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## Skills & Expertise
 
 ### Biotechnology
@@ -95,46 +126,9 @@ I'm a **Plant Breeder and Bioinformatics Researcher** focused on applying **quan
 </tr>
 </table>
 
-### Laboratory & Analytical Techniques
-
-| Technique | Application | Purpose |
-|-----------|-------------|----------|
-| **Gas Chromatography (GC)** | Fatty Acid Profiling | Quality trait analysis in breeding lines |
-| **Atomic Absorption Spectrometry (AAS)** | Mineral Quantification | Biofortification studies (Fe, Zn content) |
-| **Spectrophotometry** | Biochemical Assays | Glucosinolate and metabolite quantification |
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## Current Research Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### Guava QTL Mapping
-- WGS-based genotyping for biochemical & morphological traits
-- Genomic region annotation for target traits
-
-### Capsicum Disease Resistance
-- QTL-seq analysis for *Phytophthora capsici* resistance
-- Trait-linked primer design & validation
-
-</td>
-<td width="50%">
-
-### Cucurbits Database
-- QTL database development from published studies
-- Meta-QTL & transcriptome analysis for stress & quality traits
-
-### Cucumber & Cauliflower
-- QTL-seq and GBS mapping for disease resistance
-- Candidate gene annotation in significant genomic regions
-
-</td>
-</tr>
-</table>
-
-
+### Laboratory Equipment
+![GC](https://img.shields.io/badge/Gas_Chromatography-FF6B6B?style=flat-square)
+![AAS](https://img.shields.io/badge/Atomic_Absorption_Spectrometry-4ECDC4?style=flat-square)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -202,16 +196,12 @@ Thesis: "Evaluation and Characterization of Rice Near Isogenic Lines for Major A
 ## GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sudhakarbasu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhakarbasu&layout=compact&langs_count=8&theme=algolia&hide_border=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sudhakarbasu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhakarbasu&layout=compact&langs_count=8&theme=algolia"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudhakarbasu&theme=algolia&hide_border=false" alt="sudhakarbasu" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudhakarbasu&theme=algolia" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudhakarbasu&theme=algolia" alt="sudhakarbasu" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
