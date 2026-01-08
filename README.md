@@ -200,8 +200,10 @@ Thesis: "Evaluation and Characterization of Rice Near Isogenic Lines for Major A
 ## GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SudhakarBasu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudhakarBasu&layout=compact&langs_count=8&theme=algolia&hide_border=true&cache_seconds=1800"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SudhakarBasu&show_icons=true&theme=algolia" alt="GitHub Stats"/>
+  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudhakarBasu&layout=compact&theme=algolia" alt="Top Languages"/>
 </div>
 
 <div align="center">
