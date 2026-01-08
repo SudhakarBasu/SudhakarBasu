@@ -205,7 +205,7 @@ Thesis: "Evaluation and Characterization of Rice Near Isogenic Lines for Major A
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SudhakarBasu&theme=algolia&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=SudhakarBasu&theme=algolia&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
 <div align="center">
