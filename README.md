@@ -200,16 +200,23 @@ Thesis: "Evaluation and Characterization of Rice Near Isogenic Lines for Major A
 ## GitHub Statistics
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SudhakarBasu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats"/>
-  </a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudhakarBasu&layout=compact&theme=algolia&langs_count=10&size_weight=0.5&count_weight=0.5" alt="Top Languages"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SudhakarBasu&theme=algolia" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SudhakarBasu&theme=algolia" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SudhakarBasu&theme=algolia" alt="Productive Time"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SudhakarBasu&theme=algolia" alt="Repos Per Language"/>
 </div>
 
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=SudhakarBasu&theme=algolia&hide_border=true" alt="GitHub Streak" />
   </a>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SudhakarBasu&theme=algolia" alt="Profile Details & Languages Timeline"/>
 </div>
 
 <div align="center">
