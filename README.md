@@ -200,12 +200,16 @@ Thesis: "Evaluation and Characterization of Rice Near Isogenic Lines for Major A
 ## GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sudhakarbasu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhakarbasu&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SudhakarBasu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudhakarBasu&layout=compact&langs_count=8&theme=algolia&hide_border=true&cache_seconds=1800"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudhakarbasu&theme=algolia" alt="sudhakarbasu" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SudhakarBasu&theme=algolia&hide_border=true" alt="GitHub Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SudhakarBasu&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
